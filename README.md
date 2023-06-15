@@ -6,4 +6,4 @@
 * Разведывательный анализ
 * Очистка данных
 
-[Исходные данные:](https://drive.google.com/file/d/1suWggI4CU6fPAsgRk2RWDe_u-9KYNLNf/view?usp=drive_link)
+[Исходные данные](https://drive.google.com/file/d/1suWggI4CU6fPAsgRk2RWDe_u-9KYNLNf/view?usp=drive_link)
